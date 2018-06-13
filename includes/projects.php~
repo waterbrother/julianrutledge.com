@@ -1,0 +1,43 @@
+<div class="content">
+	<ul>
+		<li>
+			<a href="https://github.com/waterbrother/ReportWizzard" target="_blank">Report Wizzard</a>
+			<p style="text-indent: 10px">
+				A small desktop application used to cull information from a batch of MailChimp reports, process that data, and save the output in CSV format. Written in Ruby using Shoes.
+			</p>
+		</li>
+		<li>
+			<a href="https://github.com/waterbrother/SnapTweet" target="_blank">SnapTweet</a>
+			<p style="text-indent: 10px">
+				A set of Ruby scripts to automate the deletion of tweets after a certain time frame. Eventually slated to become a web server with an API for mobile device applications.
+			</p>
+		</li>
+		<li>
+		<a href="http://pastebin.com/1qAHUNkN" target="_blank">filecleanup.sh</a>
+			<p style="text-indent: 10px">
+				A file cleanup script to sort audio files by extension and size.
+			</p>
+		</li>
+		<li>
+			<a href="http://pastebin.com/JWfDjJ2b" target="_blank">name_convention.sh</a>
+			<p style="text-indent: 10px">
+				Displays a list of files which do not conform to a specified naming convention.
+			</p>
+		</li>
+		<li>
+			<a href="http://pastebin.com/YWgSDsHi" target="_blank">bact.sh</a>
+			<p style="text-indent: 10px">
+				Batch audio conversion tool, exports audio files to different formats. Depends on SOX.
+			</p>
+		</li>
+		<li>
+			<a href="http://pastebin.com/0cnWMBjY" target="_blank">detab.c</a>
+			<p style="text-indent: 10px">
+				Replaces tabs in input with individual spaces, preserving tab stops.
+			</p>
+		</li>
+		<li>
+			<a href="download.php?name=test.txt">test2</a>
+		</li>
+	</ul>
+</div>
